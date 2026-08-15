@@ -1,0 +1,21 @@
+{
+  "name": "suneeta-elco-nighties-ecommerce",
+  "version": "1.0.0",
+  "description": "Shopify-style ethnic e-commerce website for Suneeta Elco Nighties, Bandra West, Mumbai",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx -y serve . -p 3000",
+    "dev": "npx -y live-server --port=5500"
+  },
+  "keywords": [
+    "ecommerce",
+    "shopify",
+    "batik",
+    "jaipuri-cotton",
+    "nighties",
+    "sleepwear",
+    "bandra-elco"
+  ],
+  "author": "Ragavendra Manikandan",
+  "license": "MIT"
+}
